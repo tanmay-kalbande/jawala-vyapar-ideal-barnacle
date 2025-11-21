@@ -1,5 +1,5 @@
 // Service Worker for Jawala Business Directory
-const CACHE_VERSION = '1.0.5';
+const CACHE_VERSION = '1.0.6';
 const CACHE_NAME = `jawala-business-v${CACHE_VERSION}`;
 const RUNTIME_CACHE = `jawala-runtime-v${CACHE_VERSION}`;
 
